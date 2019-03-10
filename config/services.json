@@ -1,0 +1,10 @@
+{
+  "mongo":{
+    "url": "mongodb://localhost",
+    "port": 27017,
+    "database":"02_express_mongodb"
+  },
+  "express":{
+    "port":80
+  }
+}
